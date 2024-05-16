@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T12:15:35Z" name="Suite" finished-at="2024-05-15T12:16:16Z" duration-ms="41134">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T12:15:35Z" name="Test" finished-at="2024-05-15T12:16:16Z" duration-ms="41134">
+      <class name="AssignmentDay8.day8Assignment">
+        <test-method is-config="true" signature="reportconfig()[pri:0, instance:AssignmentDay8.day8Assignment@31ff43be]" started-at="2024-05-15T12:15:35Z" name="reportconfig" finished-at="2024-05-15T12:15:36Z" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method signature="chromelogintest()[pri:0, instance:AssignmentDay8.day8Assignment@31ff43be]" started-at="2024-05-15T12:15:36Z" name="chromelogintest" finished-at="2024-05-15T12:16:06Z" duration-ms="29692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromelogintest -->
+        <test-method signature="firefoxlogintest()[pri:0, instance:AssignmentDay8.day8Assignment@31ff43be]" started-at="2024-05-15T12:15:36Z" name="firefoxlogintest" finished-at="2024-05-15T12:16:15Z" duration-ms="39234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxlogintest -->
+        <test-method signature="edgelogintest()[pri:0, instance:AssignmentDay8.day8Assignment@31ff43be]" started-at="2024-05-15T12:15:36Z" name="edgelogintest" finished-at="2024-05-15T12:16:07Z" duration-ms="30676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgelogintest -->
+        <test-method is-config="true" signature="reportflush()[pri:0, instance:AssignmentDay8.day8Assignment@31ff43be]" started-at="2024-05-15T12:16:15Z" name="reportflush" finished-at="2024-05-15T12:16:16Z" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportflush -->
+      </class> <!-- AssignmentDay8.day8Assignment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
